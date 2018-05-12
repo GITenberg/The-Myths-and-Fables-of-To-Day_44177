@@ -1,0 +1,42 @@
+_repo: The-Myths-and-Fables-of-To-Day_44177
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 44177-h/images/illo_cover.jpg
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2013-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Superstition'
+- !lcsh 'Folklore'
+tableOfContents: A reckoning with time -- The folk-lore of childhood -- Weather lore
+  -- Signs of all sorts -- Charms to good luck -- Charms against disease -- Of fate
+  in jewels -- Of love and marriage -- Of evil omens -- Of haunted houses, persons,
+  and places -- Of presentiments -- The divining-rod -- Wonders of the physical universe
+  -- "ships that pass in the night" -- Fortune-telling, astrology, and palmistry.
+title: The Myths and Fables of To-Day
+url: http://www.gutenberg.org/ebooks/44177
